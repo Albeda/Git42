@@ -2,7 +2,7 @@
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
    VAR_INPUT 
-      bInput : Bool;
+      bInput_mod : Bool;
    END_VAR
 
 
